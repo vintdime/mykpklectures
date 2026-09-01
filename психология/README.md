@@ -1,2 +1,0 @@
-# mykpklectures
-# mykpklectures
