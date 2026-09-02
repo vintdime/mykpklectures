@@ -20,8 +20,8 @@ amountoflogs=round(amountoflogs)
 amountoflogs=amountoflogs+1
 print("Пожалуйста, выберите вид досок:")
 print("1-20 мм")
-print("2-20 мм")
-print("3-30 мм")
+print("2-30 мм")
+print("3-40 мм")
 while True:
     choice=input("Выберите номер:")
 
