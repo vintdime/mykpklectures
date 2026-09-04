@@ -37,6 +37,6 @@ elif choice=="2":
 elif choice=="3":
     price=price40
 total_price = amountoflogs * price
-print(f"Вам нужно {amountoflogs}досок, что будет стоить {total_price} рублей. По {price} за каждую")
+print(f"Вам нужно {amountoflogs} досок, что будет стоить {total_price} рублей. По {price} за каждую")
 username=os.getlogin()
 print(f"Хорошего дня,{username}")
